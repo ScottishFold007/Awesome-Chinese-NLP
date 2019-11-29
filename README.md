@@ -319,6 +319,7 @@ A curated list of resources for NLP (Natural Language Processing) for Chinese
 - [阿里云NLP](https://data.aliyun.com/product/nlp) 为各类企业及开发者提供的用于文本分析及挖掘的核心工具
 
 - [腾讯云NLP](https://cloud.tencent.com/product/nlp) 基于并行计算、分布式爬虫系统，结合独特的语义分析技术，一站满足NLP、转码、抽取、数据抓取等需求
+- [达观数据](http://www.datagrand.com/) 达观数据利用先进的自然语言理解技术，为政企客户提供文本自动抽取、审核、纠错、搜索、推荐、写作等智能软件系统，让计算机代替人工完成业务流程自动化，大幅度提高企业效率
 
 - [讯飞开放平台](https://www.xfyun.cn/) 以语音交互为核心的人工智能开放平台
 
